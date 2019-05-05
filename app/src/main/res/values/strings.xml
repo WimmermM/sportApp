@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Etnatera app</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_close">Close</string>
+
+    //Navigation drawer
+    <string name="drawer_header">Test app</string>
+
+    //Drawer menu
+    <string name="drawer_sports">Sport</string>
+    <string name="drawer_list">List</string>
+
+    //Sport Fragment
+    <string name="sport_fragment_button">Add</string>
+    <string name="sports_fragment_name_hint">Add sport name</string>
+    <string name="sports_fragment_location_hint">Add sport location</string>
+    <string name="sports_fragment_time_hint">Add sport duration</string>
+    <string name="sports_fragment_name_label">Sport Name</string>
+    <string name="sports_fragment_location_label">Sport Location</string>
+    <string name="sports_fragment_time_label">Sport Time</string>
+    <string name="sports_fragment_external_checkbox">External Storage</string>
+    <string name="sports_fragment_local_checkbox">Local Storage</string>
+
+
+
+
+</resources>
